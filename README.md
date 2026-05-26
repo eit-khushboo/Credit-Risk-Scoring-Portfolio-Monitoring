@@ -56,5 +56,5 @@ Through this project, I improved my skills in:
 ---
 
 ## Author
-**Khusbhoo Rajput**  
+**Khusbhoo**  
 Aspiring Data Analyst | Power BI | SQL | Python
